@@ -5,5 +5,4 @@ bin/
 int/
 
 #files
-*.slnx
-*.vcxproj
+*.user
