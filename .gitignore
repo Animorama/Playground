@@ -5,4 +5,7 @@ bin/
 int/
 
 #files
+*.slnx
+*.vcxproj
+*.filters
 *.user
